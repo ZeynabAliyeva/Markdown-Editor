@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2A3990;
+    height: 100vh;
+}
+.navDiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 30px 30px;
+    background-color: #9C254D;
+}
+.link{
+    border: 1px solid ;
+    border-radius: 5px;
+    padding: 12px 12px;
+    background-color: beige;
+    text-decoration: none;
+}
+textarea{
+    background-color: #F06292;
+}
